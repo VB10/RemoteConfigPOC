@@ -1,0 +1,6 @@
+framework module sqliteLib {
+  umbrella header "sqliteLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

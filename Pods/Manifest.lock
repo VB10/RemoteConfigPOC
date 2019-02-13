@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.8.1)
+  - Networking (2.5.0):
+    - Alamofire (~> 4.7)
+  - SQLite.swift (0.11.5):
+    - SQLite.swift/standard (= 0.11.5)
+  - SQLite.swift/standard (0.11.5)
+  - sqliteLib (1.4.0):
+    - SQLite.swift (~> 0.11.5)
+
+DEPENDENCIES:
+  - Networking (from `http://bellatrix:8080/tfs/ArgeMimariCollection/OneFrameIOS/_git/NetworkingV2`, tag `2.5.0`)
+  - sqliteLib (from `http://bellatrix:8080/tfs/ArgeMimariCollection/OneFrameIOS/_git/Sqlite`, tag `1.4.0`)
+
+EXTERNAL SOURCES:
+  Networking:
+    :git: http://bellatrix:8080/tfs/ArgeMimariCollection/OneFrameIOS/_git/NetworkingV2
+    :tag: 2.5.0
+  sqliteLib:
+    :git: http://bellatrix:8080/tfs/ArgeMimariCollection/OneFrameIOS/_git/Sqlite
+    :tag: 1.4.0
+
+CHECKOUT OPTIONS:
+  Networking:
+    :git: http://bellatrix:8080/tfs/ArgeMimariCollection/OneFrameIOS/_git/NetworkingV2
+    :tag: 2.5.0
+  sqliteLib:
+    :git: http://bellatrix:8080/tfs/ArgeMimariCollection/OneFrameIOS/_git/Sqlite
+    :tag: 1.4.0
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  Networking: ac4318ae2bf8856eaab0596af182c3d2b8ca41c6
+  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
+  sqliteLib: a2e6496ad706fe9bd06c710f72a8bfaad72f14dc
+
+PODFILE CHECKSUM: 985102744e4a66f619482309e37c89c023e7c3bd
+
+COCOAPODS: 1.4.0
