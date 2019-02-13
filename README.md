@@ -2,6 +2,11 @@
 # 
 >  Solution for native swift.Mean, change service url or important text , or title no required app publish apple store so remote config modify params and share config after client url changed.
 
+![remote config](https://github.com/VB10/RemoteConfigPOC/blob/master/Demos/remoteconfig.png?raw=true)
+
+[Thanks bro @emreaktrk](https://github.com/emreaktrk)
+
+
 # Demo
 
 ![Remote Config](https://github.com/VB10/RemoteConfigPOC/blob/master/Demos/remoteconfigios.gif?raw=true)
