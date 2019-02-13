@@ -13,6 +13,7 @@
 		6C09236D220B0C52002FF631 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C09236C220B0C52002FF631 /* Assets.xcassets */; };
 		6C092370220B0C52002FF631 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C09236E220B0C52002FF631 /* LaunchScreen.storyboard */; };
 		6C614071221145D700D2D937 /* Parameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C614070221145D700D2D937 /* Parameters.swift */; };
+		6C7C74D32213FC6E00015F98 /* remoteconfig.png in Resources */ = {isa = PBXBuildFile; fileRef = 6C7C74D22213FC6E00015F98 /* remoteconfig.png */; };
 		6C9D5C9C220C0D4E005A28B4 /* BaseDB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C9D5C9B220C0D4E005A28B4 /* BaseDB.swift */; };
 		6C9D5C9E220C0E8E005A28B4 /* App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C9D5C9D220C0E8E005A28B4 /* App.swift */; };
 		6C9FBC052213EF4E004403C5 /* remoteconfigios.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6C9FBC042213EF4E004403C5 /* remoteconfigios.gif */; };
@@ -46,6 +47,7 @@
 		6C09236F220B0C52002FF631 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C092371220B0C52002FF631 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6C614070221145D700D2D937 /* Parameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Parameters.swift; sourceTree = "<group>"; };
+		6C7C74D22213FC6E00015F98 /* remoteconfig.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = remoteconfig.png; sourceTree = "<group>"; };
 		6C9D5C9B220C0D4E005A28B4 /* BaseDB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseDB.swift; sourceTree = "<group>"; };
 		6C9D5C9D220C0E8E005A28B4 /* App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = App.swift; sourceTree = "<group>"; };
 		6C9FBC042213EF4E004403C5 /* remoteconfigios.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = remoteconfigios.gif; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 		6C9FBC032213EF3B004403C5 /* Demos */ = {
 			isa = PBXGroup;
 			children = (
+				6C7C74D22213FC6E00015F98 /* remoteconfig.png */,
 				6C9FBC042213EF4E004403C5 /* remoteconfigios.gif */,
 			);
 			path = Demos;
@@ -284,6 +287,7 @@
 				6C9FBC052213EF4E004403C5 /* remoteconfigios.gif in Resources */,
 				6C092370220B0C52002FF631 /* LaunchScreen.storyboard in Resources */,
 				6C09236D220B0C52002FF631 /* Assets.xcassets in Resources */,
+				6C7C74D32213FC6E00015F98 /* remoteconfig.png in Resources */,
 				6C09236B220B0C51002FF631 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
