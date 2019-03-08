@@ -30,6 +30,9 @@ class ServiceTest : XCTestCase {
     func testCallService() {
         let expectation = XCTestExpectation(description: "request https://remoteconfigpoc.azurewebsites.net/api/config")
 
+
+
+
         service?.getServiceControl(success: { (result : Bool) in
             XCTAssertTrue(result)
             expectation.fulfill()
