@@ -33,6 +33,10 @@ class ServiceTest : XCTestCase {
 
 
 
+
+
+
+
         service?.getServiceControl(success: { (result : Bool) in
             XCTAssertTrue(result)
             expectation.fulfill()
