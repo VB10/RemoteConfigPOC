@@ -37,6 +37,8 @@ class ViewController: UIViewController , WKNavigationDelegate {
             // UI Updates here for task complete.
         
         
+        
+        
         self.manager.getServiceControl(success: { (result : Bool) in
                 switch result {
                 case true:
