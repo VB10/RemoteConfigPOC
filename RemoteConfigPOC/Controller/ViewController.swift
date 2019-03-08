@@ -35,10 +35,6 @@ class ViewController: UIViewController , WKNavigationDelegate {
     }
     override func viewDidAppear(_ animated: Bool) {
             // UI Updates here for task complete.
-        
-        
-        
-        
         self.manager.getServiceControl(success: { (result : Bool) in
                 switch result {
                 case true:
